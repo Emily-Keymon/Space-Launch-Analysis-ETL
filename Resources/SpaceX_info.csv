@@ -1,0 +1,101 @@
+,Company Name,Location,Datum,Detail,Status Rocket, Rocket,Status Mission
+0,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 07, 2020 05:12 UTC",Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,StatusActive,50.0 ,Success
+2,SpaceX,"Pad A, Boca Chica, Texas, USA","Tue Aug 04, 2020 23:57 UTC",Starship Prototype | 150 Meter Hop,StatusActive,,Success
+8,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jul 20, 2020 21:30 UTC",Falcon 9 Block 5 | ANASIS-II,StatusActive,50.0 ,Success
+17,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Jun 30, 2020 20:10 UTC",Falcon 9 Block 5 | GPS III SV03,StatusActive,50.0 ,Success
+20,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Jun 13, 2020 09:21 UTC",Falcon 9 Block 5 | Starlink V1 L8 & SkySat 16 to 18,StatusActive,50.0 ,Success
+23,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Jun 04, 2020 01:25 UTC",Falcon 9 Block 5 | Starlink V1 L7,StatusActive,50.0 ,Success
+25,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat May 30, 2020 19:22 UTC",Falcon 9 Block 5 | SpaceX Demo-2,StatusActive,50.0 ,Success
+34,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Apr 22, 2020 19:30 UTC",Falcon 9 Block 5 | Starlink V1 L6,StatusActive,50.0 ,Success
+41,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Mar 18, 2020 12:16 UTC",Falcon 9 Block 5 | Starlink V1 L5,StatusActive,50.0 ,Success
+45,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Mar 07, 2020 04:50 UTC",Falcon 9 Block 5 | CRS-20,StatusActive,50.0 ,Success
+49,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Feb 17, 2020 15:05 UTC",Falcon 9 Block 5 | Starlink V1 L4,StatusActive,50.0 ,Success
+56,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jan 29, 2020 14:06 UTC",Falcon 9 Block 5 | Starlink V1 L3,StatusActive,50.0 ,Success
+57,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jan 19, 2020 15:30 UTC",Falcon 9 Block 5 | Crew Dragon Inflight Abort Test,StatusActive,50.0 ,Success
+62,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Jan 07, 2020 02:19 UTC",Falcon 9 Block 5 | Starlink V1 L2,StatusActive,50.0 ,Success
+69,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Dec 17, 2019 00:10 UTC",Falcon 9 Block 5 | JCSAT-18 / Kacific-1,StatusActive,50.0 ,Success
+78,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Dec 05, 2019 17:29 UTC",Falcon 9 Block 5 | CRS-19,StatusActive,50.0 ,Success
+87,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Nov 11, 2019 14:56 UTC",Falcon 9 Block 5 | Starlink V1 L1,StatusActive,50.0 ,Success
+113,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Aug 06, 2019 23:23 UTC",Falcon 9 Block 5 | AMOS-17,StatusActive,50.0 ,Success
+119,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Jul 25, 2019 22:01 UTC",Falcon 9 Block 5 | CRS-18,StatusActive,50.0 ,Success
+129,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jun 25, 2019 06:30 UTC",Falcon Heavy | STP-2,StatusActive,90.0 ,Success
+132,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Wed Jun 12, 2019 14:17 UTC",Falcon 9 Block 5 | RADARSAT Constellation,StatusActive,50.0 ,Success
+136,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 24, 2019 02:30 UTC",Falcon 9 Block 5 | Starlink V0.9,StatusActive,50.0 ,Success
+141,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat May 04, 2019 06:48 UTC",Falcon 9 Block 5 | CRS-17,StatusActive,50.0 ,Success
+146,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 11, 2019 22:35 UTC",Falcon Heavy | ArabSat 6A,StatusActive,90.0 ,Success
+158,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Mar 02, 2019 07:49 UTC",Falcon 9 Block 5 | SpaceX Demo-1,StatusActive,50.0 ,Success
+160,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 22, 2019 01:45 UTC",Falcon 9 Block 5 | Nusantara Satu & Beresheet,StatusActive,50.0 ,Success
+170,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Fri Jan 11, 2019 15:31 UTC",Falcon 9 Block 5 | Iridium-8,StatusActive,50.0 ,Success
+175,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Dec 23, 2018 13:51 UTC",Falcon 9 Block 5 | GPS III SV01,StatusActive,50.0 ,Success
+183,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Dec 05, 2018 18:16 UTC",Falcon 9 Block 5 | CRS-16,StatusActive,50.0 ,Success
+185,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Mon Dec 03, 2018 18:34 UTC",Falcon 9 Block 5 | Spaceflight SSO-A,StatusActive,50.0 ,Success
+194,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 15, 2018 20:46 UTC",Falcon 9 Block 5 | Es'hail 2,StatusActive,50.0 ,Success
+210,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Mon Oct 08, 2018 02:21 UTC",Falcon 9 Block 5 | SAOCOM 1A,StatusActive,50.0 ,Success
+217,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Sep 10, 2018 04:45 UTC",Falcon 9 Block 5 | Telstar 18V / APStar 5C,StatusActive,50.0 ,Success
+223,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Aug 07, 2018 05:18 UTC",Falcon 9 Block 5 | Merah Putih (Telkom-4),StatusActive,50.0 ,Success
+226,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Wed Jul 25, 2018 11:39 UTC",Falcon 9 Block 5 | Iridium-7,StatusActive,50.0 ,Success
+228,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Jul 22, 2018 05:50 UTC",Falcon 9 Block 5 | Telstar 19V,StatusActive,50.0 ,Success
+233,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 29, 2018 09:42 UTC",Falcon 9 Block 4 | CRS-15,StatusRetired,62.0 ,Success
+239,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jun 04, 2018 04:29 UTC",Falcon 9 Block 4 | SES-12,StatusRetired,62.0 ,Success
+241,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Tue May 22, 2018 19:47 UTC",Falcon 9 Block 4 | Iridium-6 & GRACE-FO,StatusRetired,62.0 ,Success
+244,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 11, 2018 20:14 UTC",Falcon 9 Block 5 | Bangabandhu-1,StatusActive,50.0 ,Success
+251,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Apr 18, 2018 22:51 UTC",Falcon 9 Block 4 | Transiting Exoplanet Survey Satellite (TESS),StatusRetired,62.0 ,Success
+257,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Apr 02, 2018 20:30 UTC",Falcon 9 Block 4 | CRS-14,StatusRetired,62.0 ,Success
+259,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Fri Mar 30, 2018 14:14 UTC",Falcon 9 Block 4 | Iridium-5,StatusRetired,62.0 ,Success
+266,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Mar 06, 2018 05:33 UTC",Falcon 9 Block 4 | Hispasat 30W-6,StatusRetired,62.0 ,Success
+269,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Thu Feb 22, 2018 14:17 UTC","Falcon 9 Block 3 | PAZ & Tintin A, Tintin B",StatusRetired,62.0 ,Success
+272,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Feb 06, 2018 20:45 UTC",Falcon Heavy | Test Flight,StatusActive,90.0 ,Success
+276,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jan 31, 2018 21:25 UTC",Falcon 9 Block 3 | GovSat-1 / SES-16,StatusRetired,62.0 ,Success
+288,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jan 08, 2018 01:00 UTC",Falcon 9 Block 4 | Zuma,StatusRetired,62.0 ,Success
+292,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sat Dec 23, 2017 01:27 UTC",Falcon 9 Block 3 | Iridium-4,StatusRetired,62.0 ,Success
+296,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2017 15:36 UTC",Falcon 9 Block 3 | CRS-13,StatusRetired,62.0 ,Success
+310,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Oct 30, 2017 19:34 UTC",Falcon 9 Block 4 | Koreasat 5A,StatusRetired,62.0 ,Success
+314,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Oct 11, 2017 22:53 UTC",Falcon 9 Block 3 | SES-11 / EchoStar 105,StatusRetired,62.0 ,Success
+316,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Mon Oct 09, 2017 12:37 UTC",Falcon 9 Block 4 | Iridium-3,StatusRetired,62.0 ,Success
+323,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 07, 2017 14:00 UTC",Falcon 9 Block 4 | OTV-5,StatusRetired,62.0 ,Success
+326,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Thu Aug 24, 2017 18:51 UTC",Falcon 9 Block 3 | Formosat-5,StatusRetired,62.0 ,Success
+331,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Aug 14, 2017 16:31 UTC",Falcon 9 Block 4 | CRS-12,StatusRetired,62.0 ,Success
+337,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 05, 2017 20:25 UTC",Falcon 9 Block 3 | Intelsat 35e,StatusRetired,62.0 ,Success
+340,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sun Jun 25, 2017 20:25 UTC",Falcon 9 Block 3 | Iridium-2,StatusRetired,62.0 ,Success
+341,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 23, 2017 19:10 UTC",Falcon 9 Block 3 | BulgariaSat-1,StatusRetired,62.0 ,Success
+349,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Jun 03, 2017 21:07 UTC",Falcon 9 Block 3 | CRS-11,StatusRetired,62.0 ,Success
+355,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 15, 2017 23:21 UTC",Falcon 9 Block 3 | Inmarsat-5 F4,StatusRetired,62.0 ,Success
+358,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 01, 2017 11:15 UTC",Falcon 9 Block 3 | NROL-76,StatusRetired,62.0 ,Success
+363,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 30, 2017 22:27 UTC",Falcon 9 Block 3 | SES-10,StatusRetired,62.0 ,Success
+366,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 16, 2017 06:00 UTC",Falcon 9 Block 3 | Echostar 23,StatusRetired,62.0 ,Success
+371,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Feb 19, 2017 14:39 UTC",Falcon 9 Block 3 | CRS-10,StatusRetired,62.0 ,Success
+378,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sat Jan 14, 2017 17:54 UTC",Falcon 9 Block 3 | Iridium-1,StatusRetired,62.0 ,Success
+413,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Sep 01, 2016 13:07 UTC",Falcon 9 Block 3 | AMOS-6,StatusRetired,62.0 ,Prelaunch Failure
+418,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Aug 14, 2016 05:26 UTC",Falcon 9 Block 3 | JCSAT-16,StatusRetired,62.0 ,Success
+422,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jul 18, 2016 04:45 UTC",Falcon 9 Block 3 | CRS-9,StatusRetired,62.0 ,Success
+431,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jun 15, 2016 14:29 UTC",Falcon 9 Block 3 | ABS-2A & Eutelsat 117 West B,StatusRetired,62.0 ,Success
+438,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 27, 2016 21:39 UTC",Falcon 9 Block 3 | Thaicom 8,StatusRetired,62.0 ,Success
+441,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 06, 2016 05:21 UTC",Falcon 9 Block 3 | JCSAT-14,StatusRetired,62.0 ,Success
+445,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 08, 2016 20:43 UTC",Falcon 9 Block 3 | CRS-8,StatusRetired,62.0 ,Success
+457,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 04, 2016 23:35 UTC",Falcon 9 Block 3 | SES-9,StatusRetired,62.0 ,Success
+469,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sun Jan 17, 2016 18:42 UTC",Falcon 9 v1.1 | Jason-3,StatusRetired,56.5 ,Success
+471,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Dec 22, 2015 01:29 UTC",Falcon 9 Block 3 | OG2 Mission 2,StatusRetired,62.0 ,Success
+499,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Jun 28, 2015 14:21 UTC",Falcon 9 v1.1 | CRS-7,StatusRetired,56.5 ,Failure
+504,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Apr 27, 2015 23:03 UTC",Falcon 9 v1.1 | Turkmen??lem52E/MonacoSat,StatusRetired,56.5 ,Success
+506,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Apr 15, 2015 20:10 UTC",Falcon 9 v1.1 | CRS-6,StatusRetired,56.5 ,Success
+514,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Mar 02, 2015 03:50 UTC",Falcon 9 v1.1 | ABS-3A & EUTELSAT 115 West B,StatusRetired,56.5 ,Success
+516,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Feb 11, 2015 23:03 UTC",Falcon 9 v1.1 | DSCOVR,StatusRetired,56.5 ,Success
+522,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Jan 10, 2015 09:47 UTC",Falcon 9 v1.1 | CRS-5,StatusRetired,56.5 ,Success
+538,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Sep 21, 2014 05:52 UTC",Falcon 9 v1.1 | CRS-4,StatusRetired,56.5 ,Success
+541,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Sep 07, 2014 05:00 UTC",Falcon 9 v1.1 | AsiaSat 6,StatusRetired,56.5 ,Success
+544,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Aug 05, 2014 08:00 UTC",Falcon 9 v1.1 | AsiaSat 8,StatusRetired,56.5 ,Success
+548,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jul 14, 2014 15:15 UTC",Falcon 9 v1.1 | OG2 Mission 1,StatusRetired,56.5 ,Success
+562,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 18, 2014 19:25 UTC",Falcon 9 v1.1 | CRS-3,StatusRetired,56.5 ,Success
+574,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jan 06, 2014 22:06 UTC",Falcon 9 v1.1 | Thaicom 6,StatusRetired,56.5 ,Success
+580,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Dec 03, 2013 22:41 UTC",Falcon 9 v1.1 | SES-8,StatusRetired,56.5 ,Success
+586,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sun Sep 29, 2013 16:00 UTC",Falcon 9 v1.1 | CASSIOPE,StatusRetired,56.5 ,Success
+613,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 01, 2013 15:10 UTC",Falcon 9 v1.0 | CRS-2,StatusRetired,59.5 ,Success
+629,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Oct 08, 2012 00:35 UTC",Falcon 9 v1.0 | CRS-1,StatusRetired,59.5 ,Partial Failure
+647,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue May 22, 2012 07:44 UTC",Falcon 9 v1.0 | COTS-2+,StatusRetired,59.5 ,Success
+704,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Dec 08, 2010 15:43 UTC",Falcon 9 v1.0 | COTS-1,StatusRetired,59.5 ,Success
+722,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 04, 2010 18:45 UTC",Falcon 9 v1.0 | Flight 1,StatusRetired,59.5 ,Success
+763,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Tue Jul 14, 2009 03:35 UTC",Falcon 1 | RazakSat,StatusRetired,7.0 ,Success
+800,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Sun Sep 28, 2008 23:15 UTC",Falcon 1 | RatSat,StatusRetired,7.0 ,Success
+808,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Sun Aug 03, 2008 03:34 UTC",Falcon 1 | Flight 3,StatusRetired,7.0 ,Failure
+879,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Wed Mar 21, 2007 01:10 UTC",Falcon 1 | DemoSat,StatusRetired,7.0 ,Failure
+929,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Fri Mar 24, 2006 21:30 UTC",Falcon 1 | FalconSat-2,StatusRetired,7.0 ,Failure
