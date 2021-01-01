@@ -14,18 +14,14 @@ The goal of this project was to extract, transform and load data to ensure the m
 * MongoDB Compass - MongoDB IDE
 
 ---
+## Tasks
+### Data Source 1:
+### Extract
+1.  Imported the Space X launch data CSV file as Pandas data frame.
 
-## Extract
+### Transform
+1.  
 
- ### Data source 1:  Next Space Flight:  https://nextspaceflight.com
-* This dataset contained flight information 
-* Started with 9 columns and 4,324 rows of data
-
-### Data source 2:  HuffPost:  https://www.huffpost.com/
-* This dataset contained news stories
-* Started with 6 columns and 200,853 rows of data
-
-## Transform:
 Data source one was a csv file.  Pandas library was used for transformation.
 * pd.read_csv was used to read the file into Jupyter Notebook
 * df.drop was used to drop extra columns
@@ -50,6 +46,9 @@ The last step was to transfer our final output into a database. We created a dat
 * client.db was used to declare the database
 * db.collection.insert_many was used to add the data frame to the database
 * df.to_dict was used to convert the records to dictionary for storage in the database
+
+---
+## Results
 
 ### Final Tables
 * Company Name
