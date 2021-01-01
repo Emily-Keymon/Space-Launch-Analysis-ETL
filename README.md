@@ -4,6 +4,16 @@ The goal of this project was to extract, transform and load data to ensure the m
 ---
 ## Data Sources
 * Next Space Flight:  https://nextspaceflight.com
+* HuffPost:  https://www.huffpost.com/
+
+---
+## Tools Used
+* PyCharm - Python IDE
+* Jupyter Notebook
+* Python - Pandas, NumPy, Datetime
+* MongoDB Compass - MongoDB IDE
+
+---
 
 ## Extract
 
