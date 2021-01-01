@@ -1,5 +1,8 @@
 # Space Launch Analysis: ETL - Extract, Transform, Load
 The goal of this project was to extract, transform and load data to ensure the media coverage for Space X launches was effective.  
+## Team Members:
+* Emily Keymon
+* Tony Gardella
 
 ---
 ## Data Sources
