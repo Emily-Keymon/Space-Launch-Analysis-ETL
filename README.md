@@ -20,7 +20,8 @@ The goal of this project was to extract, transform and load data to ensure the m
 1.  Imported the Space X launch data CSV file as Pandas data frame.
 
 ### Transform
-1.  
+1.  Removed extra columns.
+2.  Created dataframe for SpaceX data.
 
 Data source one was a csv file.  Pandas library was used for transformation.
 * pd.read_csv was used to read the file into Jupyter Notebook
