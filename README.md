@@ -52,5 +52,5 @@ The goal of this project was to extract, transform and load data to ensure the m
 
 ---
 ### Database
-![MongoDB_screenshot](https://user-images.githubusercontent.com/64673015/103444684-65809980-4c30-11eb-8638-140d2b231abf.PNG)
+![MongoDB_screenshot2](https://user-images.githubusercontent.com/64673015/103444962-00c73e00-4c34-11eb-84fb-6900c44705f1.PNG)
 
