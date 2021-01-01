@@ -1,4 +1,9 @@
 # Space Launch Analysis: ETL - Extract, Transform, Load
+The goal of this project was to extract, transform and load data to ensure the media coverage for Space X launches was effective.  
+
+---
+## Data Sources
+* Next Space Flight:  https://nextspaceflight.com
 
 ## Extract
 
