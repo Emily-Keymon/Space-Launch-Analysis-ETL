@@ -47,6 +47,7 @@ The goal of this project was to extract, transform and load data to ensure the m
 
 ---
 ## Results
+* After completion of the ETL process, this data contained 240 news stories about Space X and 100 attempted launches.  One can conlclude there is effective news coverage for each launch based on this data.  
 ### Techincal report:  [Technical Report.docx](https://github.com/Emily-Keymon/Employee-Attrition-Analysis/files/5759293/Technical.Report.docx)
 
 ---
