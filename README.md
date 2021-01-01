@@ -44,19 +44,5 @@ The goal of this project was to extract, transform and load data to ensure the m
 
 ---
 ## Results
-
-### Final Tables
-* Company Name
-* Location
-* Date
-* Detail
-* Status Rocket
-* Rocket
-* Status Mission
-* Category
-* Headline
-* Authors
-* Link
-* Short Description
-
+![MongoDB_screenshot](https://user-images.githubusercontent.com/64673015/103444684-65809980-4c30-11eb-8638-140d2b231abf.PNG)
 
