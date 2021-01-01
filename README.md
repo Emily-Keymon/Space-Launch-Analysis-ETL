@@ -10,7 +10,7 @@ The goal of this project was to extract, transform and load data to ensure the m
 ## Tools Used
 * PyCharm - Python IDE
 * Jupyter Notebook
-* Python - Pandas, NumPy, Datetime
+* Python - Pandas, NumPy, Datetime, PyMongo
 * MongoDB Compass - MongoDB IDE
 
 ---
