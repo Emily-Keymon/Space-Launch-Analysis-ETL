@@ -18,10 +18,21 @@ The goal of this project was to extract, transform and load data to ensure the m
 ### Data Source 1:
 ### Extract
 1.  Imported the Space X launch data CSV file as Pandas data frame.
+2.  Saved new dataframe as csv file.
 
 ### Transform
 1.  Removed extra columns.
 2.  Created dataframe for SpaceX data.
+
+### Data Source 2:
+### Extract
+1.  Imported the HuffPost news data JSON file as Pandas data frame.
+2.  Saved new dataframe as csv file.
+
+### Transform
+1.  Removed extra columns.
+2.  Created dataframe for SpaceX data.
+
 
 Data source one was a csv file.  Pandas library was used for transformation.
 * pd.read_csv was used to read the file into Jupyter Notebook
