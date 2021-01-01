@@ -35,14 +35,12 @@ The goal of this project was to extract, transform and load data to ensure the m
 4.  Merged both launch and news dataframes.
 
 ## Load
-1.  
-
-The last step was to transfer our final output into a database. We created a database and respective table to match the columns from the final Panda's Data Frame using MongoDB.  We chose this non-relational database because it proves to be ideal for storing data that may be changed frequently. 
-* PyMongo was used to work with MongoDB
-* PyMongo.MongoClient was used to establish the connection
-* client.db was used to declare the database
-* db.collection.insert_many was used to add the data frame to the database
-* df.to_dict was used to convert the records to dictionary for storage in the database
+1.  Imported PyMongo.
+2.  Initialized PyMongo to work with MongoDB.
+3.  Declared the database:  spacex_db.
+4.  Declared the collection:  db.news.
+5.  Added dataframe to database.
+6.  Converted to dictionary.
 
 ---
 ## Results
